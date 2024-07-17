@@ -68,7 +68,7 @@ st.markdown("""
         margin-top: 20px;
     }
     .code-column {
-        width: 50%;
+        width: 100%;
         padding: 0 10px;
     }
     </style>
